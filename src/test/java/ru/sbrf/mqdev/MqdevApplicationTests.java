@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class MqdevApplicationTests {
 
     @Test
-    void contextLoads() {
+    void process() {
     }
 
 }
