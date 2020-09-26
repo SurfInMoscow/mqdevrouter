@@ -1,4 +1,4 @@
-package ru.sbrf.mqdev;
+package ru.voroby.mqdev;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

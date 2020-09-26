@@ -1,4 +1,4 @@
-package ru.sbrf.mqdev;
+package ru.voroby.mqdev;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
