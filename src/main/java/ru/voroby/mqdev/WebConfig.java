@@ -22,7 +22,7 @@ public class WebConfig implements WebMvcConfigurer {
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2)
                 .select()
-                .apis(RequestHandlerSelectors.basePackage("ru.sbrf.mqdev"))
+                .apis(RequestHandlerSelectors.basePackage("ru.voroby.mqdev"))
                 .build();
     }
 
